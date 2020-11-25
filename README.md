@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Bio**
 - 🏃+🐎 I'm currently working at [Centauro](https://www.centauro.com.br/)
 - 🌱 I’m currently learning Terraform 
 - 🤔 I’m looking for help with Terraform 😅
@@ -25,9 +24,11 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=icarocarmona&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=icarocarmona&show_icons=true&theme=react" alt="icarocarmona" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarocarmona&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarocarmona&layout=compact&theme=react" alt="icarocarmona" />
+  
+  
 
 **📫 How to reach me:**
 
