@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - 🚵🏀🥋 I'm currently working at [GRUPO SBF](https://ri.gruposbf.com.br/)
-- 🌱 I’m currently learning Terraform 
-- 🤔 I’m looking for help with Terraform 😅
-- ⚡ Fun fact: I'm a huge fan of Jesus
-
 
 <br />
 
