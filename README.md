@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=icarocarmona&show_icons=true&theme=react" alt="icarocarmona" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/icarocarmona?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/icarocarmona">
+</picture>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarocarmona&layout=compact&theme=react" alt="icarocarmona" />
-  
-  
+
 
 **📫 How to reach me:**
 
